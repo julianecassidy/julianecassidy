@@ -2,11 +2,10 @@
 
 I'm a software engineer and a teaching assistant. My work has taken me from database administration to FinTech to website design to fullstack software engineering.
 
-Check out my [website](https://julianecassidy.com) and follow along with my learning on my [blog](https://julianecassidy.com/blog). Like many of my projects on this journey, they are extremely over-engineered.
+Check out my [website](https://julianecassidy.com) and follow along with my learning on my [blog](https://julianecassidy.com/blog). Or check out my current projects:
 
-My current projects include:
-
-- [julianecassidy/roadtrip](https://github.com/julianecassidy/roadtrip)
+- [julianecassidy/randomrhythms](https://github.com/julianecassidy/randomrhythms-api)
+- [julianecassidy/fetch-folio](https://github.com/julianecassidy/fetch-folio)
 
 Some of my previous projects include:
 
@@ -22,7 +21,6 @@ Some of my previous projects include:
 ![Flask](/images/flask.svg)
 ![PostgreSQL](/images/postgresql.svg)
 ![Express](/images/express.svg)
-![Axios](/images/axios.svg)
 ![Jest](/images/jest.svg)
 ![Render](/images/render.svg)
 ![VS Code](/images/visualstudiocode.svg)
