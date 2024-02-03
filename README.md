@@ -16,14 +16,17 @@ Some of my previous projects include:
 
 ![JavaScript](/images/javascript.svg)
 ![Python](/images/python.svg)
+![TypeScript](/images/typescript.svg)
 ![React](/images/react.svg)
 ![Node.js](/images/nodedotjs.svg)
 ![Flask](/images/flask.svg)
 ![PostgreSQL](/images/postgresql.svg)
 ![Express](/images/express.svg)
+![Astro](/images/astro.svg)
+![Tailwind](/images/tailwind.svg)
 ![Jest](/images/jest.svg)
+![Netlify](/images/netlify.svg)
 ![Render](/images/render.svg)
-![VS Code](/images/visualstudiocode.svg)
 
 <br />
 <br />
