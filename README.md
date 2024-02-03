@@ -6,7 +6,7 @@ Check out my [website](https://julianecassidy.com) and follow along with my lear
 
 My current projects include:
 
-- [julianecassidy/roadtrip](https://github.com/julianecassidy/roadtrip)
+- [julianecassidy/randomrhythms](https://github.com/julianecassidy/randomrhythms-api)
 - [julianecassidy/fetch-folio](https://github.com/julianecassidy/fetch-folio)
 
 Some of my previous projects include:
