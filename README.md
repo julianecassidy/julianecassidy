@@ -1,6 +1,6 @@
 ## Hello, I'm Juliane.
 
-I'm a software engineer and a teaching assistant. My work has taken me from database administration to FinTech to website design to fullstack software engineering.
+I'm a software engineer and a teaching assistant. My work has taken me from CRM/database administration in arts nonprofits to website design to fullstack software engineering.
 
 Check out my [website](https://julianecassidy.com) and follow along with my learning on my [blog](https://julianecassidy.com/blog). Or check out my current projects:
 
