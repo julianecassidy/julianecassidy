@@ -1,6 +1,6 @@
 ## Hello, I'm Juliane.
 
-I'm a software engineer and a teaching assistant. My work has taken me from CRM/database administration in arts nonprofits to website design to fullstack software engineering.
+I'm a software engineer and a teaching assistant. My work has taken me from CRM/database administration in arts nonprofits to website design to software engineering. My focus is on front end development and building intuitive and performant web apps that connect users with data.
 
 Check out my [website](https://julianecassidy.com) and follow along with my learning on my [blog](https://julianecassidy.com/blog). Or check out my current projects:
 
@@ -16,16 +16,15 @@ Some of my previous projects include:
 ### Languages and Tools:
 
 ![JavaScript](/images/javascript.svg)
-![Python](/images/python.svg)
 ![TypeScript](/images/typescript.svg)
 ![React](/images/react.svg)
 ![Node.js](/images/nodedotjs.svg)
+![Python](/images/python.svg)
 ![Flask](/images/flask.svg)
 ![PostgreSQL](/images/postgresql.svg)
 ![Express](/images/express.svg)
 ![Astro](/images/astro.svg)
 ![Tailwind](/images/tailwind.svg)
-![Jest](/images/jest.svg)
 ![Netlify](/images/netlify.svg)
 ![Render](/images/render.svg)
 
