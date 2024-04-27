@@ -5,7 +5,7 @@ I'm a software engineer and a teaching assistant. My work has taken me from CRM/
 Check out my [website](https://julianecassidy.com) and follow along with my learning on my [blog](https://julianecassidy.com/blog). Or check out my current projects:
 
 - [LWTGames/LWT_Games](https://github.com/LWTGames/LWT_Games)
-- [julianecassidy/randomrhythms](https://github.com/julianecassidy/randomrhythms-api)
+- [julianecassidy/randomrhythms](https://github.com/julianecassidy/randomrhythms)
 - [julianecassidy/fetch-folio](https://github.com/julianecassidy/fetch-folio)
 
 Some of my previous projects include:
