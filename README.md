@@ -1,17 +1,13 @@
 ## Hello, I'm Juliane.
 
-I'm a software engineer and a teaching assistant. My work has taken me from CRM/database administration in arts nonprofits to website design to software engineering. My focus is on front end development and building intuitive and performant web apps that connect users with data.
+I'm a fullstack software engineer in the telehealth sphere. My work has taken me from CRM/database administration in arts nonprofits to website design to software engineering. My focus is on front end development, including mobile, and building intuitive and performant web apps that connect users with data.
 
-Check out my [website](https://julianecassidy.com) and follow along with my learning on my [blog](https://julianecassidy.com/blog). Or check out my current projects:
-
-- [LWTGames/LWT_Games](https://github.com/LWTGames/LWT_Games)
-- [julianecassidy/randomrhythms](https://github.com/julianecassidy/randomrhythms)
-- [julianecassidy/fetch-folio](https://github.com/julianecassidy/fetch-folio)
+Check out my [website](https://julianecassidy.com) and follow along with my learning on my [blog](https://julianecassidy.com/blog). 
 
 Some of my previous projects include:
 
-- [julianecassidy/react-jobify](https://github.com/julianecassidy/react-jobify)
-- [julianecassidy/flitter](https://github.com/julianecassidy/flitter)
+- [LWTGames/LWT_Games](https://github.com/LWTGames/LWT_Games)
+- [julianecassidy/randomrhythms](https://github.com/julianecassidy/randomrhythms)
 
 ### Languages and Tools:
 
